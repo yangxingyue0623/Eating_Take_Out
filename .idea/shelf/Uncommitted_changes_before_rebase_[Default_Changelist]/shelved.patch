@@ -1,0 +1,555 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"3088c503-7c4a-4881-ae8f-709b45debbf8\" name=\"Default Changelist\" comment=\"推送代码前后端分离测试1\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/resources/application.yml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/resources/application.yml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/application.yml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/api/category.js\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/api/combo.js\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/api/food.js\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/api/login.js\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/api/member.js\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/api/order.js\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/favicon.ico\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/images/404-images/404-cloud.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/images/404-images/404.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/images/icons/btn_back@2x.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/images/icons/btn_clean@2x.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/images/icons/btn_close@2x.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/images/icons/icon_index.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/images/icons/icon_upload@2x.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/images/icons/jine_m-2@2x.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/images/icons/renshu@2x.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/images/icons/xiangmujine@2x.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/images/img_brand01@2x.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/images/img_denglu_bj.jpg\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/images/login/login-l.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/images/login/login-logo.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/images/login/logo.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/images/logo.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/images/noImg.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/index.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/js/common.js\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/js/index.js\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/js/request.js\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/js/validate.js\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/page/category/list.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/page/combo/add.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/page/combo/list.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/page/demo/upload.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/page/food/add.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/page/food/list.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/page/login/login.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/page/member/add.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/page/member/list.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/page/order/list.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/plugins/axios/axios.min.js\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/plugins/element-ui/fonts/element-icons.ttf\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/plugins/element-ui/fonts/element-icons.woff\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/plugins/element-ui/index.css\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/plugins/element-ui/index.js\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/plugins/vue/vue.js\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/styles/common.css\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/styles/fonts/element-icons.ttf\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/styles/fonts/element-icons.woff\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/styles/icon/demo.css\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/styles/icon/demo_index.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/styles/icon/iconfont.css\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/styles/icon/iconfont.js\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/styles/icon/iconfont.json\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/styles/icon/iconfont.ttf\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/styles/icon/iconfont.woff\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/styles/icon/iconfont.woff2\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/styles/index.css\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/styles/login.css\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/backend/styles/page.css\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/ReggieApplication.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/com/BaseContext.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/com/CustomException.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/com/GlobalExceptionHandler.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/com/JacksonObjectMapper.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/com/MyMetaObjecthandler.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/com/R.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/config/MybatisPliusConfig.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/config/WebMvcConfig.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/controller/AddressBookController.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/controller/CategoryController.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/controller/CommonController.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/controller/DishController.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/controller/EmyloyeeController.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/controller/OrderController.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/controller/OrderDetailController.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/controller/SetmealController.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/controller/ShoppingCartController.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/controller/UserController.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/dto/DishDto.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/dto/SetmealDto.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/entity/AddressBook.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/entity/Category.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/entity/Dish.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/entity/DishFlavor.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/entity/Employee.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/entity/OrderDetail.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/entity/Orders.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/entity/Setmeal.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/entity/SetmealDish.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/entity/ShoppingCart.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/entity/User.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/filter/LoginCheckFilter.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/mapper/AddressBookMapper.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/mapper/CategoryMapper.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/mapper/DishFlavorMapper.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/mapper/DishMapper.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/mapper/EmployeeMapper.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/mapper/OrderDetailMapper.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/mapper/OrderMapper.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/mapper/SetmealDishMapper.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/mapper/SetmealMapper.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/mapper/ShoppingCartMapper.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/mapper/UserMapper.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/service/AddressBookService.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/service/CategoryService.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/service/DishFlavorService.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/service/DishService.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/service/EmployeeService.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/service/OrderDetailService.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/service/OrderService.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/service/SetmealDishService.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/service/SetmealService.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/service/ShoppingCartService.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/service/UserService.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/service/imp/AddressBookServiceImpl.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/service/imp/CategoryServiceImpl.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/service/imp/DishFlavorServiceImpl.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/service/imp/DishServiceImpl.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/service/imp/EmployeeServiceImp.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/service/imp/OrderDetailServiceImpl.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/service/imp/OrderServiceImpl.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/service/imp/SetmealDishServiceImpl.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/service/imp/SetmealServiceImpl.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/service/imp/ShoppingCartServiceImpl.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/service/imp/UserServiceImpl.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/utils/SMSUtils.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/com/yang/reggie/utils/ValidateCodeUtils.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/api/address.js\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/api/login.js\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/api/main.js\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/api/order.js\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/cartData.json\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/fonts/DIN-Bold.otf\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/fonts/DIN-Medium.otf\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/fonts/PingFangSC-Medium.ttf\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/fonts/PingFangSC-Regular.ttf\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/fonts/PingFangSC-Semibold.ttf\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/images/add.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/images/cart.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/images/cart_active.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/images/checked_false.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/images/checked_true.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/images/close.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/images/demo1.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/images/demo2.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/images/demo3.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/images/demo4.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/images/edit.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/images/favico.ico\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/images/headPage.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/images/home.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/images/location.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/images/locations.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/images/logo.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/images/mainBg.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/images/money.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/images/noImg.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/images/no_order.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/images/no_wifi.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/images/orders.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/images/subtract.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/images/success.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/images/time.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/images/user.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/images/women.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/index.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/js/base.js\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/js/common.js\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/js/request.js\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/js/vant.min.js\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/page/add-order.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/page/address-edit.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/page/address.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/page/login.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/page/no-wify.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/page/order.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/page/pay-success.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/page/user.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/styles/add-order.css\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/styles/address-edit.css\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/styles/address.css\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/styles/index.css\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/styles/login.css\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/styles/main.css\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/styles/no-wify.css\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/styles/order.css\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/styles/pay-success.css\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/styles/user.css\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/classes/front/styles/vant.min.css\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/maven-archiver/pom.properties\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/reggie_take_out-1.0-SNAPSHOT.jar\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/reggie_take_out-1.0-SNAPSHOT.jar.original\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/target/test-classes/Testc/TEST11.class\" beforeDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"CompilerWorkspaceConfiguration\">\r\n    <option name=\"MAKE_PROJECT_ON_SAVE\" value=\"true\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Interface\" />\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MavenImportPreferences\">\r\n    <option name=\"generalSettings\">\r\n      <MavenGeneralSettings>\r\n        <option name=\"localRepository\" value=\"D:\\news3\\mavenreposity\" />\r\n        <option name=\"mavenHome\" value=\"C:\\Program Files (x86)\\ty\\maven\\apache-maven-3.6.0\" />\r\n        <option name=\"userSettingsFile\" value=\"C:\\Program Files (x86)\\ty\\maven\\apache-maven-3.6.0\\conf\\settings.xml\" />\r\n      </MavenGeneralSettings>\r\n    </option>\r\n    <option name=\"importingSettings\">\r\n      <MavenImportingSettings>\r\n        <option name=\"vmOptionsForImporter\" value=\"-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true \" />\r\n      </MavenImportingSettings>\r\n    </option>\r\n  </component>\r\n  <component name=\"MavenRunner\">\r\n    <option name=\"jreName\" value=\"1.8\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2HSFmRrhmyGPNmPRn2nEuf1zS2f\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n    <option name=\"showMembers\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"DatabaseDriversLRU\" value=\"mysql\" />\r\n    <property name=\"RequestMappingsPanelOrder0\" value=\"0\" />\r\n    <property name=\"RequestMappingsPanelOrder1\" value=\"1\" />\r\n    <property name=\"RequestMappingsPanelWidth0\" value=\"75\" />\r\n    <property name=\"RequestMappingsPanelWidth1\" value=\"75\" />\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"aspect.path.notification.shown\" value=\"true\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"vcs.Git\" />\r\n  </component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"D:\\SpringBoot2dir\\reggie_take_out\\src\\main\\resources\\del\" />\r\n      <recent name=\"D:\\SpringBoot2dir\\reggie_take_out\\src\\test\\java\\Testc\" />\r\n    </key>\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"D:\\SpringBoot2dir\\reggie_take_out\\src\\main\\java\\com\\yang\\reggie\\controller\" />\r\n      <recent name=\"D:\\SpringBoot2dir\\reggie_take_out\\src\\main\\java\\com\\yang\\reggie\\service\\imp\" />\r\n      <recent name=\"D:\\SpringBoot2dir\\reggie_take_out\\src\\main\\java\\com\\yang\\reggie\\service\" />\r\n      <recent name=\"D:\\SpringBoot2dir\\reggie_take_out\\src\\main\\java\\com\\yang\\reggie\\mapper\" />\r\n      <recent name=\"D:\\SpringBoot2dir\\reggie_take_out\\src\\main\\java\\com\\yang\\reggie\\beans\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Spring Boot.ReggieApplication\">\r\n    <configuration name=\"TEST11\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Testc.TEST11\" />\r\n      <module name=\"reggie_take_out\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Testc.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration default=\"true\" type=\"ArquillianJUnit\" factoryName=\"\" nameIsGenerated=\"true\">\r\n      <option name=\"arquillianRunConfiguration\">\r\n        <value>\r\n          <option name=\"containerStateName\" value=\"\" />\r\n        </value>\r\n      </option>\r\n      <option name=\"TEST_OBJECT\" value=\"class\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"All in reggie_take_out\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"reggie_take_out\" />\r\n      <option name=\"PACKAGE_NAME\" value=\"\" />\r\n      <option name=\"TEST_OBJECT\" value=\"package\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"ReggieApplication\" type=\"SpringBootApplicationConfigurationType\" factoryName=\"Spring Boot\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"reggie_take_out\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"com.yang.reggie.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"SPRING_BOOT_MAIN_CLASS\" value=\"com.yang.reggie.ReggieApplication\" />\r\n      <option name=\"ALTERNATIVE_JRE_PATH\" />\r\n      <option name=\"UPDATE_ACTION_UPDATE_POLICY\" value=\"UpdateClassesAndResources\" />\r\n      <option name=\"FRAME_DEACTIVATION_UPDATE_POLICY\" value=\"UpdateClassesAndResources\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Spring Boot.ReggieApplication\" />\r\n        <item itemvalue=\"JUnit.All in reggie_take_out\" />\r\n        <item itemvalue=\"Application.TEST11\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"3088c503-7c4a-4881-ae8f-709b45debbf8\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1668270752284</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1668270752284</updated>\r\n      <workItem from=\"1668270753400\" duration=\"8378000\" />\r\n      <workItem from=\"1668338627706\" duration=\"2363000\" />\r\n      <workItem from=\"1668345329178\" duration=\"289000\" />\r\n      <workItem from=\"1668346088807\" duration=\"23803000\" />\r\n      <workItem from=\"1668430227221\" duration=\"1152000\" />\r\n      <workItem from=\"1668431631253\" duration=\"3700000\" />\r\n      <workItem from=\"1668501262672\" duration=\"13069000\" />\r\n      <workItem from=\"1668538617852\" duration=\"580000\" />\r\n      <workItem from=\"1668584013070\" duration=\"21188000\" />\r\n      <workItem from=\"1668663192181\" duration=\"17293000\" />\r\n      <workItem from=\"1668698544497\" duration=\"10427000\" />\r\n      <workItem from=\"1668758745253\" duration=\"650000\" />\r\n      <workItem from=\"1668763223742\" duration=\"13425000\" />\r\n      <workItem from=\"1668875167201\" duration=\"593000\" />\r\n      <workItem from=\"1668935187322\" duration=\"2596000\" />\r\n      <workItem from=\"1669009738432\" duration=\"588000\" />\r\n      <workItem from=\"1669094411266\" duration=\"504000\" />\r\n      <workItem from=\"1669105650415\" duration=\"582000\" />\r\n      <workItem from=\"1669135820876\" duration=\"55000\" />\r\n      <workItem from=\"1669136760655\" duration=\"3028000\" />\r\n      <workItem from=\"1669273135046\" duration=\"569000\" />\r\n      <workItem from=\"1669371820973\" duration=\"29158000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"推送基础外卖代码springboot项目\">\r\n      <created>1669459109942</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669459109942</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"推送代码前后端分离测试1\">\r\n      <created>1669462926350</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669462926350</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"3\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"推送基础外卖代码springboot项目\" />\r\n    <MESSAGE value=\"推送代码前后端分离测试1\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"推送代码前后端分离测试1\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"96\" y=\"0\" width=\"1171\" height=\"680\" key=\"#com.intellij.execution.impl.EditConfigurationsDialog\" timestamp=\"1668960990718\">\r\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"680\" />\r\n    </state>\r\n    <state x=\"96\" y=\"0\" width=\"1171\" height=\"680\" key=\"#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680\" timestamp=\"1668960990718\" />\r\n    <state x=\"446\" y=\"46\" key=\"#com.intellij.ide.util.MemberChooser\" timestamp=\"1668699325807\">\r\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"680\" />\r\n    </state>\r\n    <state x=\"446\" y=\"46\" key=\"#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680\" timestamp=\"1668699325807\" />\r\n    <state x=\"419\" y=\"207\" width=\"443\" height=\"273\" key=\"#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes\" timestamp=\"1668615001058\">\r\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"680\" />\r\n    </state>\r\n    <state x=\"419\" y=\"207\" width=\"443\" height=\"273\" key=\"#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680\" timestamp=\"1668615001058\" />\r\n    <state x=\"371\" y=\"87\" key=\"#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog\" timestamp=\"1669456458566\">\r\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"680\" />\r\n    </state>\r\n    <state x=\"371\" y=\"87\" key=\"#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680\" timestamp=\"1669456458566\" />\r\n    <state x=\"421\" y=\"81\" key=\"FileChooserDialogImpl\" timestamp=\"1669458626820\">\r\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"680\" />\r\n    </state>\r\n    <state x=\"421\" y=\"81\" key=\"FileChooserDialogImpl/0.0.1280.680@0.0.1280.680\" timestamp=\"1669458626819\" />\r\n    <state width=\"272\" height=\"198\" key=\"Git.Branch.Popup\" timestamp=\"1669462946332\">\r\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"680\" />\r\n    </state>\r\n    <state width=\"272\" height=\"198\" key=\"Git.Branch.Popup/0.0.1280.680@0.0.1280.680\" timestamp=\"1669462946332\" />\r\n    <state x=\"455\" y=\"241\" key=\"Github.CreateGistDialog\" timestamp=\"1669446871957\">\r\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"680\" />\r\n    </state>\r\n    <state x=\"455\" y=\"241\" key=\"Github.CreateGistDialog/0.0.1280.680@0.0.1280.680\" timestamp=\"1669446871957\" />\r\n    <state width=\"1237\" height=\"471\" key=\"GridCell.Tab.0.bottom\" timestamp=\"1669472619691\">\r\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"680\" />\r\n    </state>\r\n    <state width=\"1237\" height=\"471\" key=\"GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680\" timestamp=\"1669472619690\" />\r\n    <state width=\"1237\" height=\"471\" key=\"GridCell.Tab.0.center\" timestamp=\"1669472619688\">\r\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"680\" />\r\n    </state>\r\n    <state width=\"1237\" height=\"471\" key=\"GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680\" timestamp=\"1669472619688\" />\r\n    <state width=\"1237\" height=\"471\" key=\"GridCell.Tab.0.left\" timestamp=\"1669472619684\">\r\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"680\" />\r\n    </state>\r\n    <state width=\"1237\" height=\"471\" key=\"GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680\" timestamp=\"1669472619684\" />\r\n    <state width=\"1237\" height=\"471\" key=\"GridCell.Tab.0.right\" timestamp=\"1669472619688\">\r\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"680\" />\r\n    </state>\r\n    <state width=\"1237\" height=\"471\" key=\"GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680\" timestamp=\"1669472619688\" />\r\n    <state width=\"1237\" height=\"471\" key=\"GridCell.Tab.1.bottom\" timestamp=\"1669472619693\">\r\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"680\" />\r\n    </state>\r\n    <state width=\"1237\" height=\"471\" key=\"GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680\" timestamp=\"1669472619693\" />\r\n    <state width=\"1237\" height=\"471\" key=\"GridCell.Tab.1.center\" timestamp=\"1669472619692\">\r\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"680\" />\r\n    </state>\r\n    <state width=\"1237\" height=\"471\" key=\"GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680\" timestamp=\"1669472619692\" />\r\n    <state width=\"1237\" height=\"471\" key=\"GridCell.Tab.1.left\" timestamp=\"1669472619691\">\r\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"680\" />\r\n    </state>\r\n    <state width=\"1237\" height=\"471\" key=\"GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680\" timestamp=\"1669472619691\" />\r\n    <state width=\"1237\" height=\"471\" key=\"GridCell.Tab.1.right\" timestamp=\"1669472619693\">\r\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"680\" />\r\n    </state>\r\n    <state width=\"1237\" height=\"471\" key=\"GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680\" timestamp=\"1669472619693\" />\r\n    <state width=\"1237\" height=\"275\" key=\"GridCell.Tab.2.bottom\" timestamp=\"1668703309333\">\r\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"680\" />\r\n    </state>\r\n    <state width=\"1237\" height=\"275\" key=\"GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680\" timestamp=\"1668703309333\" />\r\n    <state width=\"1237\" height=\"275\" key=\"GridCell.Tab.2.center\" timestamp=\"1668703309333\">\r\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"680\" />\r\n    </state>\r\n    <state width=\"1237\" height=\"275\" key=\"GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680\" timestamp=\"1668703309333\" />\r\n    <state width=\"1237\" height=\"275\" key=\"GridCell.Tab.2.left\" timestamp=\"1668703309333\">\r\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"680\" />\r\n    </state>\r\n    <state width=\"1237\" height=\"275\" key=\"GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680\" timestamp=\"1668703309333\" />\r\n    <state width=\"1237\" height=\"275\" key=\"GridCell.Tab.2.right\" timestamp=\"1668703309333\">\r\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"680\" />\r\n    </state>\r\n    <state width=\"1237\" height=\"275\" key=\"GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680\" timestamp=\"1668703309333\" />\r\n    <state x=\"221\" y=\"75\" key=\"IDE.errors.dialog\" timestamp=\"1669455159484\">\r\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"680\" />\r\n    </state>\r\n    <state x=\"221\" y=\"75\" key=\"IDE.errors.dialog/0.0.1280.680@0.0.1280.680\" timestamp=\"1669455159484\" />\r\n    <state x=\"228\" y=\"155\" key=\"Registry\" timestamp=\"1668271497109\">\r\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"680\" />\r\n    </state>\r\n    <state x=\"228\" y=\"155\" key=\"Registry/0.0.1280.680@0.0.1280.680\" timestamp=\"1668271497109\" />\r\n    <state x=\"329\" y=\"60\" key=\"RollbackChangesDialog\" timestamp=\"1669457565262\">\r\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"680\" />\r\n    </state>\r\n    <state x=\"329\" y=\"60\" key=\"RollbackChangesDialog/0.0.1280.680@0.0.1280.680\" timestamp=\"1669457565262\" />\r\n    <state x=\"142\" y=\"0\" key=\"SettingsEditor\" timestamp=\"1668785828769\">\r\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"680\" />\r\n    </state>\r\n    <state x=\"142\" y=\"0\" key=\"SettingsEditor/0.0.1280.680@0.0.1280.680\" timestamp=\"1668785828769\" />\r\n    <state x=\"200\" y=\"119\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1669462949753\">\r\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"680\" />\r\n    </state>\r\n    <state x=\"200\" y=\"119\" key=\"Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680\" timestamp=\"1669462949753\" />\r\n    <state x=\"241\" y=\"19\" key=\"com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser\" timestamp=\"1668437948426\">\r\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"680\" />\r\n    </state>\r\n    <state x=\"241\" y=\"19\" key=\"com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680@0.0.1280.680\" timestamp=\"1668437948426\" />\r\n    <state x=\"151\" y=\"69\" width=\"978\" height=\"604\" key=\"com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2\" timestamp=\"1668349642798\">\r\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"680\" />\r\n    </state>\r\n    <state x=\"151\" y=\"69\" width=\"978\" height=\"604\" key=\"com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680\" timestamp=\"1668349642798\" />\r\n    <state x=\"338\" y=\"72\" width=\"605\" height=\"536\" key=\"find.popup\" timestamp=\"1669457669749\">\r\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"680\" />\r\n    </state>\r\n    <state x=\"338\" y=\"72\" width=\"605\" height=\"536\" key=\"find.popup/0.0.1280.680@0.0.1280.680\" timestamp=\"1669457669749\" />\r\n    <state x=\"28\" y=\"1\" key=\"new project wizard\" timestamp=\"1668791916425\">\r\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"680\" />\r\n    </state>\r\n    <state x=\"28\" y=\"1\" key=\"new project wizard/0.0.1280.680@0.0.1280.680\" timestamp=\"1668791916425\" />\r\n    <state x=\"551\" y=\"70\" width=\"672\" height=\"676\" key=\"search.everywhere.popup\" timestamp=\"1669464703812\">\r\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"680\" />\r\n    </state>\r\n    <state x=\"551\" y=\"70\" width=\"672\" height=\"676\" key=\"search.everywhere.popup/0.0.1280.680@0.0.1280.680\" timestamp=\"1669464703812\" />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/com/yang/reggie/controller/EmyloyeeController.java</url>\r\n          <line>83</line>\r\n          <option name=\"timeStamp\" value=\"6\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/com/yang/reggie/com/GlobalExceptionHandler.java</url>\r\n          <line>20</line>\r\n          <option name=\"timeStamp\" value=\"7\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/com/yang/reggie/controller/DishController.java</url>\r\n          <line>130</line>\r\n          <option name=\"timeStamp\" value=\"31\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"javascript\">\r\n          <url>file://$PROJECT_DIR$/src/main/resources/backend/js/request.js</url>\r\n          <line>10</line>\r\n          <option name=\"timeStamp\" value=\"8\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"javascript\">\r\n          <url>file://$PROJECT_DIR$/src/main/resources/backend/page/member/list.html</url>\r\n          <line>194</line>\r\n          <option name=\"timeStamp\" value=\"13\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-method\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/com/yang/reggie/controller/CategoryController.java</url>\r\n          <line>61</line>\r\n          <properties class=\"com.yang.reggie.controller.CategoryController\" method=\"delete\">\r\n            <option name=\"EMULATED\" value=\"true\" />\r\n          </properties>\r\n          <option name=\"timeStamp\" value=\"21\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-method\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/com/yang/reggie/service/imp/CategoryServiceImpl.java</url>\r\n          <line>25</line>\r\n          <properties class=\"com.yang.reggie.service.imp.CategoryServiceImpl\" method=\"remove\" />\r\n          <option name=\"timeStamp\" value=\"26\" />\r\n        </line-breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n    <pin-to-top-manager>\r\n      <pinned-members>\r\n        <PinnedItemInfo parentTag=\"com.yang.reggie.controller.DishController\" memberName=\"categoryService\" />\r\n      </pinned-members>\r\n    </pin-to-top-manager>\r\n    <watches-manager>\r\n      <configuration name=\"SpringBootApplicationConfigurationType\">\r\n        <watch expression=\"dishDtoPage\" />\r\n        <watch expression=\"page\" />\r\n      </configuration>\r\n    </watches-manager>\r\n  </component>\r\n  <component name=\"com.intellij.coverage.CoverageDataManagerImpl\">\r\n    <SUITE FILE_PATH=\"coverage/reggie_take_out$ReggieApplication.ic\" NAME=\"ReggieApplication Coverage Results\" MODIFIED=\"1668665837109\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"idea\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\">\r\n      <FILTER>com.yang.reggie.*</FILTER>\r\n    </SUITE>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision b66f7814c62163797ea711fdaa591b969715ce76)
++++ .idea/workspace.xml	(date 1670589924000)
+@@ -3,208 +3,36 @@
+   <component name="AutoImportSettings">
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
++  <component name="BranchesTreeState">
++    <expand>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++    </expand>
++    <select>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="BRANCH:v1.0" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++    </select>
++  </component>
+   <component name="ChangeListManager">
+     <list default="true" id="3088c503-7c4a-4881-ae8f-709b45debbf8" name="Default Changelist" comment="推送代码前后端分离测试1">
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_2022_11_26_22_32__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_2022_11_26_22_32__Default_Changelist_.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/api/category.js" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/api/combo.js" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/api/food.js" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/api/login.js" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/api/member.js" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/api/order.js" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/favicon.ico" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/images/404-images/404-cloud.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/images/404-images/404.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/images/icons/btn_back@2x.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/images/icons/btn_clean@2x.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/images/icons/btn_close@2x.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/images/icons/icon_index.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/images/icons/icon_upload@2x.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/images/icons/jine_m-2@2x.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/images/icons/renshu@2x.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/images/icons/xiangmujine@2x.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/images/img_brand01@2x.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/images/img_denglu_bj.jpg" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/images/login/login-l.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/images/login/login-logo.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/images/login/logo.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/images/logo.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/images/noImg.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/index.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/js/common.js" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/js/index.js" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/js/request.js" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/js/validate.js" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/page/category/list.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/page/combo/add.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/page/combo/list.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/page/demo/upload.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/page/food/add.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/page/food/list.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/page/login/login.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/page/member/add.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/page/member/list.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/page/order/list.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/plugins/axios/axios.min.js" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/plugins/element-ui/fonts/element-icons.ttf" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/plugins/element-ui/fonts/element-icons.woff" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/plugins/element-ui/index.css" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/plugins/element-ui/index.js" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/plugins/vue/vue.js" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/styles/common.css" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/styles/fonts/element-icons.ttf" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/styles/fonts/element-icons.woff" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/styles/icon/demo.css" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/styles/icon/demo_index.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/styles/icon/iconfont.css" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/styles/icon/iconfont.js" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/styles/icon/iconfont.json" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/styles/icon/iconfont.ttf" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/styles/icon/iconfont.woff" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/styles/icon/iconfont.woff2" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/styles/index.css" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/styles/login.css" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/backend/styles/page.css" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/ReggieApplication.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/com/BaseContext.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/com/CustomException.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/com/GlobalExceptionHandler.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/com/JacksonObjectMapper.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/com/MyMetaObjecthandler.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/com/R.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/config/MybatisPliusConfig.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/config/WebMvcConfig.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/controller/AddressBookController.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/controller/CategoryController.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/controller/CommonController.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/controller/DishController.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/controller/EmyloyeeController.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/controller/OrderController.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/controller/OrderDetailController.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/controller/SetmealController.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/controller/ShoppingCartController.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/controller/UserController.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/dto/DishDto.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/dto/SetmealDto.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/entity/AddressBook.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/entity/Category.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/entity/Dish.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/entity/DishFlavor.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/entity/Employee.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/entity/OrderDetail.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/entity/Orders.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/entity/Setmeal.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/entity/SetmealDish.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/entity/ShoppingCart.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/entity/User.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/filter/LoginCheckFilter.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/mapper/AddressBookMapper.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/mapper/CategoryMapper.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/mapper/DishFlavorMapper.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/mapper/DishMapper.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/mapper/EmployeeMapper.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/mapper/OrderDetailMapper.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/mapper/OrderMapper.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/mapper/SetmealDishMapper.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/mapper/SetmealMapper.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/mapper/ShoppingCartMapper.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/mapper/UserMapper.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/service/AddressBookService.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/service/CategoryService.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/service/DishFlavorService.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/service/DishService.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/service/EmployeeService.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/service/OrderDetailService.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/service/OrderService.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/service/SetmealDishService.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/service/SetmealService.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/service/ShoppingCartService.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/service/UserService.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/service/imp/AddressBookServiceImpl.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/service/imp/CategoryServiceImpl.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/service/imp/DishFlavorServiceImpl.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/service/imp/DishServiceImpl.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/service/imp/EmployeeServiceImp.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/service/imp/OrderDetailServiceImpl.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/service/imp/OrderServiceImpl.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/service/imp/SetmealDishServiceImpl.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/service/imp/SetmealServiceImpl.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/service/imp/ShoppingCartServiceImpl.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/service/imp/UserServiceImpl.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/utils/SMSUtils.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/com/yang/reggie/utils/ValidateCodeUtils.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/api/address.js" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/api/login.js" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/api/main.js" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/api/order.js" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/cartData.json" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/fonts/DIN-Bold.otf" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/fonts/DIN-Medium.otf" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/fonts/PingFangSC-Medium.ttf" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/fonts/PingFangSC-Regular.ttf" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/fonts/PingFangSC-Semibold.ttf" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/images/add.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/images/cart.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/images/cart_active.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/images/checked_false.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/images/checked_true.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/images/close.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/images/demo1.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/images/demo2.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/images/demo3.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/images/demo4.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/images/edit.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/images/favico.ico" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/images/headPage.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/images/home.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/images/location.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/images/locations.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/images/logo.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/images/mainBg.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/images/money.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/images/noImg.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/images/no_order.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/images/no_wifi.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/images/orders.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/images/subtract.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/images/success.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/images/time.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/images/user.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/images/women.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/index.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/js/base.js" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/js/common.js" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/js/request.js" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/js/vant.min.js" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/page/add-order.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/page/address-edit.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/page/address.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/page/login.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/page/no-wify.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/page/order.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/page/pay-success.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/page/user.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/styles/add-order.css" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/styles/address-edit.css" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/styles/address.css" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/styles/index.css" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/styles/login.css" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/styles/main.css" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/styles/no-wify.css" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/styles/order.css" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/styles/pay-success.css" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/styles/user.css" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/front/styles/vant.min.css" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/reggie_take_out-1.0-SNAPSHOT.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/reggie_take_out-1.0-SNAPSHOT.jar.original" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/Testc/TEST11.class" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -214,6 +42,9 @@
+   <component name="CompilerWorkspaceConfiguration">
+     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+   </component>
++  <component name="ComposerSettings">
++    <execution />
++  </component>
+   <component name="FileTemplateManagerImpl">
+     <option name="RECENT_TEMPLATES">
+       <list>
+@@ -223,6 +54,11 @@
+     </option>
+   </component>
+   <component name="Git.Settings">
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="v1.0" />
++      </map>
++    </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="MavenImportPreferences">
+@@ -238,6 +74,11 @@
+         <option name="vmOptionsForImporter" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true " />
+       </MavenImportingSettings>
+     </option>
++    <option name="disabledProfiles">
++      <list>
++        <option value="jdk-1.8" />
++      </list>
++    </option>
+   </component>
+   <component name="MavenRunner">
+     <option name="jreName" value="1.8" />
+@@ -261,52 +102,96 @@
+     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+   </component>
+   <component name="RecentsManager">
+-    <key name="MoveFile.RECENT_KEYS">
+-      <recent name="D:\SpringBoot2dir\reggie_take_out\src\main\resources\del" />
+-      <recent name="D:\SpringBoot2dir\reggie_take_out\src\test\java\Testc" />
+-    </key>
+     <key name="CopyFile.RECENT_KEYS">
+       <recent name="D:\SpringBoot2dir\reggie_take_out\src\main\java\com\yang\reggie\controller" />
+       <recent name="D:\SpringBoot2dir\reggie_take_out\src\main\java\com\yang\reggie\service\imp" />
+       <recent name="D:\SpringBoot2dir\reggie_take_out\src\main\java\com\yang\reggie\service" />
+       <recent name="D:\SpringBoot2dir\reggie_take_out\src\main\java\com\yang\reggie\mapper" />
+       <recent name="D:\SpringBoot2dir\reggie_take_out\src\main\java\com\yang\reggie\beans" />
++    </key>
++    <key name="MoveFile.RECENT_KEYS">
++      <recent name="D:\SpringBoot2dir\reggie_take_out\src\main\resources\del" />
++      <recent name="D:\SpringBoot2dir\reggie_take_out\src\test\java\Testc" />
+     </key>
+   </component>
+-  <component name="RunManager" selected="Spring Boot.ReggieApplication">
+-    <configuration name="TEST11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="Testc.TEST11" />
++  <component name="RunManager" selected="Spring Boot.EattingApplication">
++    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
++      <option name="arquillianRunConfiguration">
++        <value>
++          <option name="containerStateName" value="" />
++        </value>
++      </option>
++      <option name="TEST_OBJECT" value="CLASS" />
++      <properties />
++      <listeners />
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="SpringDataRedisTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+       <module name="reggie_take_out" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="Testc.*" />
++          <option name="PATTERN" value="com.yang.reggie.test.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
++      <option name="PACKAGE_NAME" value="Testc" />
++      <option name="MAIN_CLASS_NAME" value="Testc.SpringDataRedisTest" />
++      <option name="TEST_OBJECT" value="class" />
+       <method v="2">
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+-      <option name="arquillianRunConfiguration">
+-        <value>
+-          <option name="containerStateName" value="" />
+-        </value>
+-      </option>
+-      <option name="TEST_OBJECT" value="class" />
++    <configuration name="SpringDataRedisTest.testString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
++      <module name="reggie_take_out" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="com.yang.reggie.test.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <option name="PACKAGE_NAME" value="Testc" />
++      <option name="MAIN_CLASS_NAME" value="Testc.SpringDataRedisTest" />
++      <option name="METHOD_NAME" value="testString" />
++      <option name="TEST_OBJECT" value="method" />
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="reggie_take_out_Test.testHash" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
++      <module name="reggie_take_out" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="com.yang.reggie.test.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <option name="PACKAGE_NAME" value="com.yang.reggie.test" />
++      <option name="MAIN_CLASS_NAME" value="com.yang.reggie.test.reggie_take_out_Test" />
++      <option name="METHOD_NAME" value="testHash" />
++      <option name="TEST_OBJECT" value="method" />
+       <method v="2">
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="All in reggie_take_out" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
++    <configuration name="reggie_take_out_Test.testString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+       <module name="reggie_take_out" />
+-      <option name="PACKAGE_NAME" value="" />
+-      <option name="TEST_OBJECT" value="package" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="com.yang.reggie.test.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <option name="PACKAGE_NAME" value="com.yang.reggie.test" />
++      <option name="MAIN_CLASS_NAME" value="com.yang.reggie.test.reggie_take_out_Test" />
++      <option name="METHOD_NAME" value="testString" />
++      <option name="TEST_OBJECT" value="method" />
+       <method v="2">
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="ReggieApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
++    <configuration name="EattingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+       <module name="reggie_take_out" />
+       <extension name="coverage">
+         <pattern>
+@@ -314,7 +199,7 @@
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yang.reggie.ReggieApplication" />
++      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yang.reggie.EattingApplication" />
+       <option name="ALTERNATIVE_JRE_PATH" />
+       <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+@@ -324,9 +209,11 @@
+     </configuration>
+     <recent_temporary>
+       <list>
+-        <item itemvalue="Spring Boot.ReggieApplication" />
+-        <item itemvalue="JUnit.All in reggie_take_out" />
+-        <item itemvalue="Application.TEST11" />
++        <item itemvalue="Spring Boot.EattingApplication" />
++        <item itemvalue="JUnit.SpringDataRedisTest.testString" />
++        <item itemvalue="JUnit.SpringDataRedisTest" />
++        <item itemvalue="JUnit.reggie_take_out_Test.testString" />
++        <item itemvalue="JUnit.reggie_take_out_Test.testHash" />
+       </list>
+     </recent_temporary>
+   </component>
+@@ -380,6 +267,30 @@
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
++  </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State>
++              <option name="FILTERS">
++                <map>
++                  <entry key="branch">
++                    <value>
++                      <list>
++                        <option value="v1.0" />
++                      </list>
++                    </value>
++                  </entry>
++                </map>
++              </option>
++            </State>
++          </value>
++        </entry>
++      </map>
++    </option>
++    <option name="oldMeFiltersMigrated" value="true" />
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="推送基础外卖代码springboot项目" />
+@@ -407,10 +318,10 @@
+       <screen x="0" y="0" width="1280" height="680" />
+     </state>
+     <state x="421" y="81" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1669458626819" />
+-    <state width="272" height="198" key="Git.Branch.Popup" timestamp="1669462946332">
++    <state width="284" height="210" key="Git.Branch.Popup" timestamp="1670589666308">
+       <screen x="0" y="0" width="1280" height="680" />
+     </state>
+-    <state width="272" height="198" key="Git.Branch.Popup/0.0.1280.680@0.0.1280.680" timestamp="1669462946332" />
++    <state width="284" height="210" key="Git.Branch.Popup/0.0.1280.680@0.0.1280.680" timestamp="1670589666308" />
+     <state x="455" y="241" key="Github.CreateGistDialog" timestamp="1669446871957">
+       <screen x="0" y="0" width="1280" height="680" />
+     </state>
+@@ -507,21 +418,6 @@
+   <component name="XDebuggerManager">
+     <breakpoint-manager>
+       <breakpoints>
+-        <line-breakpoint enabled="true" type="java-line">
+-          <url>file://$PROJECT_DIR$/src/main/java/com/yang/reggie/controller/EmyloyeeController.java</url>
+-          <line>83</line>
+-          <option name="timeStamp" value="6" />
+-        </line-breakpoint>
+-        <line-breakpoint enabled="true" type="java-line">
+-          <url>file://$PROJECT_DIR$/src/main/java/com/yang/reggie/com/GlobalExceptionHandler.java</url>
+-          <line>20</line>
+-          <option name="timeStamp" value="7" />
+-        </line-breakpoint>
+-        <line-breakpoint enabled="true" type="java-line">
+-          <url>file://$PROJECT_DIR$/src/main/java/com/yang/reggie/controller/DishController.java</url>
+-          <line>130</line>
+-          <option name="timeStamp" value="31" />
+-        </line-breakpoint>
+         <line-breakpoint enabled="true" type="javascript">
+           <url>file://$PROJECT_DIR$/src/main/resources/backend/js/request.js</url>
+           <line>10</line>
+@@ -540,12 +436,10 @@
+           </properties>
+           <option name="timeStamp" value="21" />
+         </line-breakpoint>
+-        <line-breakpoint enabled="true" type="java-method">
+-          <url>file://$PROJECT_DIR$/src/main/java/com/yang/reggie/service/imp/CategoryServiceImpl.java</url>
+-          <line>25</line>
+-          <properties class="com.yang.reggie.service.imp.CategoryServiceImpl" method="remove" />
+-          <option name="timeStamp" value="26" />
+-        </line-breakpoint>
++        <breakpoint enabled="true" type="java-exception">
++          <properties class="java.lang.IllegalStateException" package="java.lang" />
++          <option name="timeStamp" value="32" />
++        </breakpoint>
+       </breakpoints>
+     </breakpoint-manager>
+     <pin-to-top-manager>
+Index: target/classes/application.yml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>server:\r\n  port: 8081\r\nspring:\r\n  application:\r\n    name: reggie_take_out\r\n    #应用的名称默认该项目名\r\n  datasource:\r\n    druid:\r\n      driver-class-name: com.mysql.cj.jdbc.Driver\r\n      #jdbc:mysql://192.168.8.1:3306/reggie?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=utf-8&zeroDateTimeBehavior=convertToNull&useSSL=false&allowPublicKeyRetrieval=true\r\n      #Url要改成自己的jdbc:mysql://localhost:3306/reggie?serverTimezone=UTC\r\n      url: jdbc:mysql://localhost:3306/reggie?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=utf-8&zeroDateTimeBehavior=convertToNull&useSSL=false&allowPublicKeyRetrieval=true\r\n      username: root\r\n      password: 123456\r\n  redis:\r\n    host: 192.168.8.130\r\n    port: 6379\r\n    password: yangroot\r\n\r\n    lettuce:\r\n      pool:\r\n        max-active: 10 #最大连接数量\r\n        max-idle: 10 #阻塞最大等待时间\r\n        min-idle: 1\r\n        time-between-eviction-runs: 10s\r\n    database: 1 #操作的数据库1，这里默认是0,我的0做的其他项目缓存\r\n\r\n\r\n\r\nmybatis-plus:\r\n  configuration:\r\n    #在映射实体或者属性时，将数据库中表名和字段名中的下划线去掉，按照驼峰命名法映射\r\n    #比如表user_name > 对应表userName\r\n    map-underscore-to-camel-case: true\r\n    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl\r\n  global-config:\r\n    #    mapper-locations: classpath:mybatis/mapper/*.xml\r\n    db-config:\r\n      id-type: ASSIGN_ID\r\n\r\n#设置一个外部配置源，输出的地址\r\nreggie:\r\n  path: D:/img/\r\n#  path: /usr/local/img/
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- target/classes/application.yml	(revision b66f7814c62163797ea711fdaa591b969715ce76)
++++ target/classes/application.yml	(date 1670589820000)
+@@ -1,5 +1,5 @@
+ server:
+-  port: 8081
++  port: 8080
+ spring:
+   application:
+     name: reggie_take_out
+@@ -7,23 +7,10 @@
+   datasource:
+     druid:
+       driver-class-name: com.mysql.cj.jdbc.Driver
+-      #jdbc:mysql://192.168.8.1:3306/reggie?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=utf-8&zeroDateTimeBehavior=convertToNull&useSSL=false&allowPublicKeyRetrieval=true
+       #Url要改成自己的jdbc:mysql://localhost:3306/reggie?serverTimezone=UTC
+-      url: jdbc:mysql://localhost:3306/reggie?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=utf-8&zeroDateTimeBehavior=convertToNull&useSSL=false&allowPublicKeyRetrieval=true
++      url: jdbc:mysql://192.168.8.1:3306/reggie?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=utf-8&zeroDateTimeBehavior=convertToNull&useSSL=false&allowPublicKeyRetrieval=true
+       username: root
+       password: 123456
+-  redis:
+-    host: 192.168.8.130
+-    port: 6379
+-    password: yangroot
+-
+-    lettuce:
+-      pool:
+-        max-active: 10 #最大连接数量
+-        max-idle: 10 #阻塞最大等待时间
+-        min-idle: 1
+-        time-between-eviction-runs: 10s
+-    database: 1 #操作的数据库1，这里默认是0,我的0做的其他项目缓存
+ 
+ 
+ 
+@@ -37,8 +24,6 @@
+     #    mapper-locations: classpath:mybatis/mapper/*.xml
+     db-config:
+       id-type: ASSIGN_ID
+-
+ #设置一个外部配置源，输出的地址
+ reggie:
+-  path: D:/img/
+-#  path: /usr/local/img/
+\ No newline at end of file
++  path: /usr/local/img/
+\ No newline at end of file
+diff --git .idea/shelf/Uncommitted_changes_before_Merge_at_2022_11_26_22_32__Default_Changelist_.xml .idea/shelf/Uncommitted_changes_before_Merge_at_2022_11_26_22_32__Default_Changelist_.xml

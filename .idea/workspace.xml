@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3088c503-7c4a-4881-ae8f-709b45debbf8" name="Default Changelist" comment="commit新的代码">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022_12_9_19_58__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022_12_9_19_58__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022_12_9_20_16__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022_12_9_20_16__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022_12_10_1_02__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022_12_10_1_02__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="v1.0" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\news3\mavenreposity" />
+        <option name="mavenHome" value="C:\Program Files (x86)\ty\maven\apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="C:\Program Files (x86)\ty\maven\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true " />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="2HSFmRrhmyGPNmPRn2nEuf1zS2f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.yang.reggie.service.imp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SpringBoot2dir\reggie_take_out\src\main\java\com\yang\reggie\controller" />
+      <recent name="D:\SpringBoot2dir\reggie_take_out\src\main\java\com\yang\reggie\service\imp" />
+      <recent name="D:\SpringBoot2dir\reggie_take_out\src\main\java\com\yang\reggie\service" />
+      <recent name="D:\SpringBoot2dir\reggie_take_out\src\main\java\com\yang\reggie\mapper" />
+      <recent name="D:\SpringBoot2dir\reggie_take_out\src\main\java\com\yang\reggie\beans" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SpringBoot2dir\reggie_take_out\src\main\resources\del" />
+      <recent name="D:\SpringBoot2dir\reggie_take_out\src\test\java\Testc" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringDataRedisTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reggie_take_out" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yang.reggie.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Testc" />
+      <option name="MAIN_CLASS_NAME" value="Testc.SpringDataRedisTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringDataRedisTest.testString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reggie_take_out" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yang.reggie.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Testc" />
+      <option name="MAIN_CLASS_NAME" value="Testc.SpringDataRedisTest" />
+      <option name="METHOD_NAME" value="testString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reggie_take_out_Test.testHash" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reggie_take_out" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yang.reggie.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yang.reggie.test" />
+      <option name="MAIN_CLASS_NAME" value="com.yang.reggie.test.reggie_take_out_Test" />
+      <option name="METHOD_NAME" value="testHash" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reggie_take_out_Test.testString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reggie_take_out" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yang.reggie.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yang.reggie.test" />
+      <option name="MAIN_CLASS_NAME" value="com.yang.reggie.test.reggie_take_out_Test" />
+      <option name="METHOD_NAME" value="testString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpringDataRedisTest.testString" />
+        <item itemvalue="JUnit.SpringDataRedisTest" />
+        <item itemvalue="JUnit.reggie_take_out_Test.testString" />
+        <item itemvalue="JUnit.reggie_take_out_Test.testHash" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3088c503-7c4a-4881-ae8f-709b45debbf8" name="Default Changelist" comment="" />
+      <created>1668270752284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668270752284</updated>
+      <workItem from="1668270753400" duration="8378000" />
+      <workItem from="1668338627706" duration="2363000" />
+      <workItem from="1668345329178" duration="289000" />
+      <workItem from="1668346088807" duration="23803000" />
+      <workItem from="1668430227221" duration="1152000" />
+      <workItem from="1668431631253" duration="3700000" />
+      <workItem from="1668501262672" duration="13069000" />
+      <workItem from="1668538617852" duration="580000" />
+      <workItem from="1668584013070" duration="21188000" />
+      <workItem from="1668663192181" duration="17293000" />
+      <workItem from="1668698544497" duration="10427000" />
+      <workItem from="1668758745253" duration="650000" />
+      <workItem from="1668763223742" duration="13425000" />
+      <workItem from="1668875167201" duration="593000" />
+      <workItem from="1668935187322" duration="2596000" />
+      <workItem from="1669009738432" duration="588000" />
+      <workItem from="1669094411266" duration="504000" />
+      <workItem from="1669105650415" duration="582000" />
+      <workItem from="1669135820876" duration="55000" />
+      <workItem from="1669136760655" duration="3028000" />
+      <workItem from="1669273135046" duration="569000" />
+      <workItem from="1669371820973" duration="29158000" />
+      <workItem from="1670592061234" duration="5690000" />
+      <workItem from="1670597962492" duration="4574000" />
+      <workItem from="1670603049250" duration="2687000" />
+    </task>
+    <task id="LOCAL-00001" summary="推送基础外卖代码springboot项目">
+      <created>1669459109942</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669459109942</updated>
+    </task>
+    <task id="LOCAL-00002" summary="推送代码前后端分离测试1">
+      <created>1669462926350</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669462926350</updated>
+    </task>
+    <task id="LOCAL-00003" summary="项目代码的完全实现">
+      <created>1670604671376</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670604671376</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="推送基础外卖代码springboot项目" />
+    <MESSAGE value="推送代码前后端分离测试1" />
+    <MESSAGE value="项目代码的完全实现" />
+    <option name="LAST_COMMIT_MESSAGE" value="项目代码的完全实现" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" width="1171" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1668960990718">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" width="1171" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1668960990718" />
+    <state x="373" y="141" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1670610068209">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="373" y="141" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1670610068209" />
+    <state x="446" y="46" key="#com.intellij.ide.util.MemberChooser" timestamp="1670598716547">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="46" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1670598716547" />
+    <state x="419" y="207" width="443" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1668615001058">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="419" y="207" width="443" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1668615001058" />
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1669456458566">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1669456458566" />
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog" timestamp="1670607138819">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1670607138819" />
+    <state x="421" y="81" key="FileChooserDialogImpl" timestamp="1669458626820">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="81" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1669458626819" />
+    <state x="455" y="241" key="Github.CreateGistDialog" timestamp="1669446871957">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="455" y="241" key="Github.CreateGistDialog/0.0.1280.680@0.0.1280.680" timestamp="1669446871957" />
+    <state width="1237" height="308" key="GridCell.Tab.0.bottom" timestamp="1670652296182">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="308" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1670652296182" />
+    <state width="1237" height="308" key="GridCell.Tab.0.center" timestamp="1670652296181">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="308" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1670652296181" />
+    <state width="1237" height="308" key="GridCell.Tab.0.left" timestamp="1670652296181">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="308" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1670652296181" />
+    <state width="1237" height="308" key="GridCell.Tab.0.right" timestamp="1670652296181">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="308" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1670652296181" />
+    <state width="845" height="2" key="GridCell.Tab.1.bottom" timestamp="1670612355718">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="2" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1670612355718" />
+    <state width="845" height="2" key="GridCell.Tab.1.center" timestamp="1670612355717">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="2" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1670612355717" />
+    <state width="845" height="2" key="GridCell.Tab.1.left" timestamp="1670612355715">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="2" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1670612355715" />
+    <state width="845" height="2" key="GridCell.Tab.1.right" timestamp="1670612355717">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="2" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1670612355717" />
+    <state width="845" height="380" key="GridCell.Tab.2.bottom" timestamp="1670599679641">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="380" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1670599679641" />
+    <state width="845" height="380" key="GridCell.Tab.2.center" timestamp="1670599679641">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="380" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1670599679641" />
+    <state width="845" height="380" key="GridCell.Tab.2.left" timestamp="1670599679641">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="380" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1670599679641" />
+    <state width="845" height="380" key="GridCell.Tab.2.right" timestamp="1670599679641">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="380" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1670599679641" />
+    <state x="221" y="75" key="IDE.errors.dialog" timestamp="1669455159484">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="221" y="75" key="IDE.errors.dialog/0.0.1280.680@0.0.1280.680" timestamp="1669455159484" />
+    <state x="122" y="51" key="MergeDialog" timestamp="1670605535042">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="122" y="51" key="MergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1670605535042" />
+    <state x="277" y="101" key="MultipleFileMergeDialog" timestamp="1670605535056">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="277" y="101" key="MultipleFileMergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1670605535056" />
+    <state x="228" y="155" key="Registry" timestamp="1668271497109">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="228" y="155" key="Registry/0.0.1280.680@0.0.1280.680" timestamp="1668271497109" />
+    <state x="329" y="60" key="RollbackChangesDialog" timestamp="1669457565262">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="329" y="60" key="RollbackChangesDialog/0.0.1280.680@0.0.1280.680" timestamp="1669457565262" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1670605273525">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1670605273525" />
+    <state x="200" y="119" key="Vcs.Push.Dialog.v2" timestamp="1670607575064">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="200" y="119" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1670607575064" />
+    <state x="241" y="19" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1668437948426">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="241" y="19" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680@0.0.1280.680" timestamp="1668437948426" />
+    <state x="449" y="253" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1670605702469">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="449" y="253" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1670605702469" />
+    <state x="151" y="69" width="978" height="604" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1668349642798">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="151" y="69" width="978" height="604" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1668349642798" />
+    <state x="338" y="72" width="605" height="536" key="find.popup" timestamp="1669457669749">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="338" y="72" width="605" height="536" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1669457669749" />
+    <state x="28" y="1" key="new project wizard" timestamp="1668791916425">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="28" y="1" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1668791916425" />
+    <state x="551" y="70" width="672" height="676" key="search.everywhere.popup" timestamp="1669464703812">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="551" y="70" width="672" height="676" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1669464703812" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/main/resources/backend/js/request.js</url>
+          <line>10</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/main/resources/backend/page/member/list.html</url>
+          <line>194</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalStateException" package="java.lang" />
+          <option name="timeStamp" value="32" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.yang.reggie.controller.DishController" memberName="categoryService" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="dishDtoPage" />
+        <watch expression="page" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/reggie_take_out$ReggieApplication.ic" NAME="ReggieApplication Coverage Results" MODIFIED="1670598221490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
